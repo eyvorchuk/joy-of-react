@@ -1,0 +1,3 @@
+[submodule "project-wordle"]
+	path = project-wordle
+	url = ./project-wordle/

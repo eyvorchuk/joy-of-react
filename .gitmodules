@@ -1,3 +1,6 @@
 [submodule "project-wordle"]
 	path = project-wordle
 	url = https://github.com/eyvorchuk/project-wordle.git
+[submodule "project-toast"]
+	path = project-toast
+	url = https://github.com/eyvorchuk/project-toast.git
